@@ -1,9 +1,9 @@
 # Toxic-Comment-Classification
 You are provided with a large number of Wikipedia comments which have been labeled by
 human raters for toxic behavior. The types of toxicity are:
+
 **Content**
-The dataset consists of:
-comment_text: The text of the Comment
+The dataset consists of: comment_text: The text of the Comment
 class: The respective class to which the tweet belongs. There are 5 classes -:
 toxic
 severe_toxic
