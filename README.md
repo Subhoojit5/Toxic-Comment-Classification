@@ -14,7 +14,9 @@ identity_hate
 
 *Business Objective:*
 1. Need to get sentiment analysis of tweets gauge its impact and type
-Architecture level analysis:
+   
+*Architecture level analysis:*
 1. Data transformation/Text processing using Python
-2. Sentiment Analysis using Biderectonal LSTM.
-3. Deployment through Python using Gradio.
+2. Perfoming EDA and showing the toxic words using WordCloud
+3. Sentiment Analysis using Biderectonal LSTM.
+4. Deployment through Python using Gradio.
